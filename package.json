@@ -1,0 +1,14 @@
+{
+  "name": "s_d_shah",
+  "version": "1.0.0",
+  "description": "Json_server_deploy_onweb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S&D Shah",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
